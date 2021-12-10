@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/react-distransics/static/css/main.d3e7ae64.chunk.css",
-    "main.js": "/react-distransics/static/js/main.854d1e48.chunk.js",
-    "main.js.map": "/react-distransics/static/js/main.854d1e48.chunk.js.map",
+    "main.css": "/react-distransics/static/css/main.77020fed.chunk.css",
+    "main.js": "/react-distransics/static/js/main.de8a4f86.chunk.js",
+    "main.js.map": "/react-distransics/static/js/main.de8a4f86.chunk.js.map",
     "runtime-main.js": "/react-distransics/static/js/runtime-main.0967b41f.js",
     "runtime-main.js.map": "/react-distransics/static/js/runtime-main.0967b41f.js.map",
-    "static/js/2.12b432f6.chunk.js": "/react-distransics/static/js/2.12b432f6.chunk.js",
-    "static/js/2.12b432f6.chunk.js.map": "/react-distransics/static/js/2.12b432f6.chunk.js.map",
+    "static/js/2.3241fd30.chunk.js": "/react-distransics/static/js/2.3241fd30.chunk.js",
+    "static/js/2.3241fd30.chunk.js.map": "/react-distransics/static/js/2.3241fd30.chunk.js.map",
     "index.html": "/react-distransics/index.html",
-    "static/css/main.d3e7ae64.chunk.css.map": "/react-distransics/static/css/main.d3e7ae64.chunk.css.map",
-    "static/js/2.12b432f6.chunk.js.LICENSE.txt": "/react-distransics/static/js/2.12b432f6.chunk.js.LICENSE.txt",
-    "static/media/AWS.7cfb1f5c.png": "/react-distransics/static/media/AWS.7cfb1f5c.png",
+    "static/css/main.77020fed.chunk.css.map": "/react-distransics/static/css/main.77020fed.chunk.css.map",
+    "static/js/2.3241fd30.chunk.js.LICENSE.txt": "/react-distransics/static/js/2.3241fd30.chunk.js.LICENSE.txt",
     "static/media/Competences.92e119cf.png": "/react-distransics/static/media/Competences.92e119cf.png",
     "static/media/DIS.9ace4b0a.jpg": "/react-distransics/static/media/DIS.9ace4b0a.jpg",
-    "static/media/GitHubLogo3.1b136cd1.png": "/react-distransics/static/media/GitHubLogo3.1b136cd1.png",
     "static/media/Planning.b590330b.png": "/react-distransics/static/media/Planning.b590330b.png",
-    "static/media/TX-SOCIAL.533ca7ca.jpg": "/react-distransics/static/media/TX-SOCIAL.533ca7ca.jpg",
     "static/media/TX-Visio.40228e37.png": "/react-distransics/static/media/TX-Visio.40228e37.png",
     "static/media/TX-Visio2.4b6aaac4.png": "/react-distransics/static/media/TX-Visio2.4b6aaac4.png",
     "static/media/TX-Visio3.a866a0c4.png": "/react-distransics/static/media/TX-Visio3.a866a0c4.png",
@@ -23,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0967b41f.js",
-    "static/js/2.12b432f6.chunk.js",
-    "static/css/main.d3e7ae64.chunk.css",
-    "static/js/main.854d1e48.chunk.js"
+    "static/js/2.3241fd30.chunk.js",
+    "static/css/main.77020fed.chunk.css",
+    "static/js/main.de8a4f86.chunk.js"
   ]
 }
